@@ -23,4 +23,5 @@
 - 2016年12月3日、[東京ウオーク2016 in 新島にて15kmコース踏破](http://www.travel-note.org/kanto/izu-island-walk-in-niijima/)
 - 2017年2月5日、[東京都ウオーキング協会主催八王子ウオーク25kmコース踏破](http://www.travel-note.org/kanto/hachiouji-walking/)
 - 2017年3月5日、[東京都ウオーキング協会主催多摩川十里40kmコース踏破](http://www.travel-note.org/kanto/tama-walking/)
-- 2017年4月14～15日、信州松本梓川・桜ウオーク参加予定
+- 2017年4月14日、信州松本梓川・桜ウオーク21kmコース踏破
+- 2017年4月15日、信州松本梓川・桜ウオーク参加予定
